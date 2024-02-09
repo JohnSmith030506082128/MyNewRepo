@@ -1,0 +1,2 @@
+# MyNewRepo
+For learning github
